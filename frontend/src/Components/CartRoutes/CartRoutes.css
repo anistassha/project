@@ -1,0 +1,45 @@
+.cartroutes {
+    margin: 100px 170px;
+}
+
+.cartroutes hr {
+    height: 3px;
+    background: #e2e2e2;
+    border: 0;
+}
+
+.cartroutes-format-main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+    gap: 75px;
+    padding: 20px 0px;
+    color: #454545;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.cartroutes-format {
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.cartroutes-remove-icon {
+    width: 30px;
+    margin: 0px 20px;
+    cursor: pointer;
+}
+
+.cartroutes-quantity {
+    width: 64px;
+    height: 50px;
+    border: 2px solid #ebebeb;
+    background: #fff;
+    margin-left: 15px;
+}
+
+.cartroutes-nazvanie {
+    font-size: 30px;
+    padding-left: 520px;
+    color: #5a0c04;
+}

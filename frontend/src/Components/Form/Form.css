@@ -1,0 +1,73 @@
+.form-zakaz-container {
+    background: #e5deff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 87vh; 
+    width: 100%;
+}
+
+.form-zakaz-content {
+    background-color: white;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    width: 30%;
+}
+
+.form-zakaz-content label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-zakaz-content select {
+    width: 100%;
+    height: 50px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #deeef69e;
+    font-size: 14px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #7b7b7b;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+
+input[type="date"] {
+    width: 94%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #deeef69e;
+    color: #7b7b7b;
+    font-size: 14px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.form-zakaz-content button {
+    background: #6079ff;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    width: 160px;
+    height: 50px;
+    font-weight: 500;
+    margin-left: 130px;
+}
+
+.form-zakaz-content button:hover {
+    background-color: #0056b3;
+}
+
+.swap-cities-button {
+    padding-left: 188px;
+}
+
+.swap-cities-button:hover {
+    cursor: pointer;
+}

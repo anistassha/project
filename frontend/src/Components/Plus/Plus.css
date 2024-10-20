@@ -1,0 +1,19 @@
+.block img {
+    width: 1084px;
+    height: 140px;
+    padding: 0;
+    margin-left: 193px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.text {
+    width: 1090px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 185px;
+    padding-top: 49px;
+    margin-bottom: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(55, 70, 27);
+}

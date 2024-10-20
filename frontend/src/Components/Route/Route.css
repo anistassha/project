@@ -1,0 +1,36 @@
+.route {
+    width: 600px;
+    height: 150px;
+    background: rgba(251, 251, 251, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 500px;
+}
+
+.route:hover {
+    transform: scale(1.05);
+    transition: 0.6s;
+}
+
+.time-from {
+    margin-left: 50px;
+}
+
+.route_date {
+    margin-left: 50px;
+}
+
+.route button {
+    background: #ff6060;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 130px;
+    height: 40px;
+    font-weight: 500;
+    margin-left: 40px;
+}

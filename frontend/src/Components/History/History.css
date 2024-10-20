@@ -1,0 +1,17 @@
+.cartroutes-format-main-history {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+    gap: 75px;
+    padding: 20px 0px;
+    color: #454545;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+.history {
+    font-size: 30px;
+    padding-left: 420px;
+    color: #5a0c04;
+}
